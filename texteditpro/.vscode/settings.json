@@ -1,8 +1,0 @@
-{
-  "cmake.generator": "MinGW Makefiles",
-  "cmake.configureArgs": ["-DCMAKE_PREFIX_PATH=C:/Users/jdonn/downloads/fltk-1.4.4/install"],
-"cmake.buildArgs": [
-    "-j4"
-],
-"cmake.sourceDirectory": "C:/Users/jdonn/OneDrive - Queen's University Belfast/Documents/GitHub/texteditpro"
-}
